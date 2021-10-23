@@ -1,0 +1,2 @@
+# mySQL
+exercícios de mySQL
